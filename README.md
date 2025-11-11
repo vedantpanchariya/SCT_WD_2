@@ -2,4 +2,4 @@
 
 ## Calculator 
 
-## Live Preview : https://vedantpanchariya.github.io/Calculator/
+## Live Preview : https://vedantpanchariya.github.io/SCT_WD_2/
